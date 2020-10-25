@@ -1,2 +1,2 @@
 # user-call
-This application will notify &lt;br> you when customers enter some values on your site.
+This application will notify you when customers enter some values on your site.
